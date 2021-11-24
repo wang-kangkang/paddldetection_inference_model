@@ -1,0 +1,6 @@
+imgs/niu.jpg
+0
+imgs/person.png
+2
+{"imgname": "imgs/person.png", "xmin": 533.337, "ymin": 68.529, "xmax": 750.335, "ymax": 701.379, "score": 0.969, "class_id": 0, "class_name": "person"}
+{"imgname": "imgs/person.png", "xmin": 110.06, "ymin": 127.118, "xmax": 479.926, "ymax": 815.125, "score": 0.592, "class_id": 0, "class_name": "person"}
