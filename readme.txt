@@ -10,11 +10,18 @@ attention: this repo is a purely personal repo.
 二：本代码会只使用opencv，numpy等初级新手也会的库，和一些所必须的paddle api，完成一个预测demo，使得用户能够极快的上手。
 
 三：本仓库放一个较小的模型，其他模型存到百度云，以链接的方式给出
+文件解释：
+run.sh 启动预测的脚本，假如环境合适，可直接执行sh run.sh
+infer.py 预测脚本，默认不适用gpu，需要修改请打开文件，注释第16行，取消注释第15行；输入图片列表在第12行的imgname_list变量中。用户可自行修改成其他输入方式
+ppyolo_tiny_650e_coco 存放导出的inference model
+imgs 存放输入图片
+drawed_result 存放预测完成后画了矩形框的图，用户尝试执行sh run.sh时，建议先删除本文件夹下的两张图。如果执行run.sh后本文件夹下存下了图，可证明预测成功
+detect_resul.txt 以文本形式存放了预测结果
 
 四：导出环境：本代码使用了paddledetection2.3版本。
 
 五：运行环境：paddlepaddle 2.1.1版本，gpu版和cpu版都行。高阶用户可以使用TensorRT等加速库部署。
 
-预测模型：
+其他预测模型：
 ppyolo tiny：链接: https://pan.baidu.com/s/1yNq0KrE70WarcqcRrM-cKg 提取码: i5qm 
 yolov3 r34：链接: https://pan.baidu.com/s/1Xw2pQk15Ldfn2yA3iVeesA 提取码: a2c7
