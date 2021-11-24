@@ -11,4 +11,6 @@ attention: this repo is a purely personal repo.
 
 三：本仓库放一个较小的模型，其他模型存到百度云，以链接的方式给出
 
-四：环境：paddlepaddle 2.1.1版本，gpu版和cpu版都行
+四：导出环境：本代码使用了paddledetection2.3版本。
+
+五：运行环境：paddlepaddle 2.1.1版本，gpu版和cpu版都行。高阶用户可以使用TensorRT等加速库部署。
