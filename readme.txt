@@ -7,10 +7,14 @@ attention: this repo is a purely personal repo.
 (3)虽然paddledetection给出了导出模型的方法，但是导出模型仍然是一个不大不小的步骤，会依赖一些环境，比如不太好安装的pycocotools
 (4)本方法的唯一缺点是导出的模型在运行时需要依赖于导出时的环境，如果预测库更新太大，模型可能无法运行。但我认为这都是小问题，当下好用才是王道。
 
-二：本代码会只使用opencv，numpy等初级新手也会的库，完成一个预测demo，使得用户能够极快的上手。
+二：本代码会只使用opencv，numpy等初级新手也会的库，和一些所必须的paddle api，完成一个预测demo，使得用户能够极快的上手。
 
 三：本仓库放一个较小的模型，其他模型存到百度云，以链接的方式给出
 
 四：导出环境：本代码使用了paddledetection2.3版本。
 
 五：运行环境：paddlepaddle 2.1.1版本，gpu版和cpu版都行。高阶用户可以使用TensorRT等加速库部署。
+
+预测模型：
+ppyolo tiny：链接: https://pan.baidu.com/s/1yNq0KrE70WarcqcRrM-cKg 提取码: i5qm 
+yolov3 r34：链接: https://pan.baidu.com/s/1Xw2pQk15Ldfn2yA3iVeesA 提取码: a2c7
