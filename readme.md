@@ -14,12 +14,12 @@ attention: this repo is a purely personal repo.
 ### 三
 本仓库放一个较小的模型，其他模型存到百度云，以链接的方式给出  
 本仓库文件解释：  
-1:run.sh 启动预测的脚本，假如环境合适，可直接执行sh run.sh  
-2:infer.py 预测脚本，默认不适用gpu，需要修改请打开文件，注释第16行，取消注释第15行；输入图片列表在第12行的imgname_list变量中。用户可自行修改成其他输入方式  
-3:ppyolo_tiny_650e_coco 存放导出的inference model  
-4:imgs 存放输入图片  
-5:drawed_result 存放预测完成后画了矩形框的图，用户尝试执行sh run.sh时，建议先删除本文件夹下的两张图。如果执行run.sh后本文件夹下存下了图，可证明预测成功  
-6:detect_resul.txt 以文本形式存放了预测结果  
+(1)run.sh 启动预测的脚本，假如环境合适，可直接执行sh run.sh  
+(2)infer.py 预测脚本，默认不适用gpu，需要修改请打开文件，注释第16行，取消注释第15行；输入图片列表在第12行的imgname_list变量中。用户可自行修改成其他输入方式  
+(3)ppyolo_tiny_650e_coco 存放导出的inference model  
+(4)imgs 存放输入图片  
+(5)drawed_result 存放预测完成后画了矩形框的图，用户尝试执行sh run.sh时，建议先删除本文件夹下的两张图。如果执行run.sh后本文件夹下存下了图，可证明预测成功  
+(6)detect_resul.txt 以文本形式存放了预测结果  
 
 ### 四
 导出环境：本代码使用了paddledetection2.3版本，python3.6。  
