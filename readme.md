@@ -22,7 +22,7 @@ drawed_result 存放预测完成后画了矩形框的图，用户尝试执行sh 
 detect_resul.txt 以文本形式存放了预测结果
 
 ###四
-导出环境：本代码使用了paddledetection2.3版本。
+导出环境：本代码使用了paddledetection2.3版本，python3.6。
 
 ###五
 运行环境：paddlepaddle 2.1.1版本，gpu版和cpu版都行。高阶用户可以使用TensorRT等加速库部署。
