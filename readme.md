@@ -28,5 +28,5 @@ detect_resul.txt 以文本形式存放了预测结果
 运行环境：paddlepaddle 2.1.1版本，gpu版和cpu版都行。高阶用户可以使用TensorRT等加速库部署。
 
 ### 其他预测模型：
-ppyolo tiny：链接: https://pan.baidu.com/s/1yNq0KrE70WarcqcRrM-cKg 提取码: i5qm 
-yolov3 r34：链接: https://pan.baidu.com/s/1Xw2pQk15Ldfn2yA3iVeesA 提取码: a2c7
+#### ppyolo tiny：链接: https://pan.baidu.com/s/1yNq0KrE70WarcqcRrM-cKg 提取码: i5qm 
+#### yolov3 r34：链接: https://pan.baidu.com/s/1Xw2pQk15Ldfn2yA3iVeesA 提取码: a2c7
