@@ -30,3 +30,6 @@ attention: this repo is a purely personal repo.
 ### 其他预测模型：
 #### ppyolo tiny：链接: https://pan.baidu.com/s/1yNq0KrE70WarcqcRrM-cKg 提取码: i5qm 
 #### yolov3 r34：链接: https://pan.baidu.com/s/1Xw2pQk15Ldfn2yA3iVeesA 提取码: a2c7
+#### picodet s: 链接: https://pan.baidu.com/s/16GXxpSfPEkmz8yKeNPijrw 提取码: w8iw
+#### picodet m: 链接: https://pan.baidu.com/s/1UCr8EIDVR0xlRu_Y3shoEA 提取码: sy3n
+#### picodet l: 链接: https://pan.baidu.com/s/1Qsz8VkgLhBkoRK6LMsn9Ww 提取码: trzd
