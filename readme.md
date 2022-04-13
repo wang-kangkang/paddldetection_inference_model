@@ -33,3 +33,4 @@ attention: this repo is a purely personal repo.
 #### picodet s: 链接: https://pan.baidu.com/s/16GXxpSfPEkmz8yKeNPijrw 提取码: w8iw
 #### picodet m: 链接: https://pan.baidu.com/s/1UCr8EIDVR0xlRu_Y3shoEA 提取码: sy3n
 #### picodet l: 链接: https://pan.baidu.com/s/1Qsz8VkgLhBkoRK6LMsn9Ww 提取码: trzd
+#### RetinaNet：链接: https://pan.baidu.com/s/1yHkZm8USuGT7_4F0Vkh7uA 提取码: ccih
