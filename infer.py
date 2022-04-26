@@ -45,7 +45,7 @@ if __name__ == '__main__':
         img = img.transpose((2, 0, 1))
         img = img[np.newaxis, :, :, :]
         im_shape = np.array([img_origin.shape[0], img_origin.shape[1]], np.float32).reshape((1, 2))
-        im_scale_factor = np.array([1], np.float32)
+        im_scale_factor = np.array([[1, 1]], np.float32)
         input_list = [im_shape, img, im_scale_factor]
    
         #infer
