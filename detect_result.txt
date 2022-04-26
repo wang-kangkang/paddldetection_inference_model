@@ -1,5 +1,9 @@
 imgs/niu.jpg
-0
+4
+{"imgname": "imgs/niu.jpg", "xmin": 202.312, "ymin": 163.78, "xmax": 824.684, "ymax": 610.591, "score": 0.988, "class_id": 19, "class_name": "cow"}
+{"imgname": "imgs/niu.jpg", "xmin": 71.592, "ymin": 280.067, "xmax": 158.55, "ymax": 367.679, "score": 0.985, "class_id": 19, "class_name": "cow"}
+{"imgname": "imgs/niu.jpg", "xmin": 201.923, "ymin": 277.032, "xmax": 234.042, "ymax": 358.214, "score": 0.298, "class_id": 19, "class_name": "cow"}
+{"imgname": "imgs/niu.jpg", "xmin": 116.581, "ymin": 279.717, "xmax": 166.558, "ymax": 364.36, "score": 0.16, "class_id": 19, "class_name": "cow"}
 imgs/person.png
 2
 {"imgname": "imgs/person.png", "xmin": 533.337, "ymin": 68.529, "xmax": 750.335, "ymax": 701.379, "score": 0.969, "class_id": 0, "class_name": "person"}

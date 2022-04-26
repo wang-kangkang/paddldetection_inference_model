@@ -61,15 +61,14 @@ if __name__ == '__main__':
             output_tensor = predictor.get_output_tensor(name)
             output_data = output_tensor.copy_to_cpu()
             results.append(output_data)
-        results = results[0]
+        ori_results = results[0]
 
         #filter_by_score_threshold
-        index = 0
-        for i2 in range(len(results)):
-            if(results[i2, 1]<score_threshold):
-                results = results[:index, :]
-                break
-            index += 1
+        results = []
+        for i2 in range(len(ori_results)):
+            if(ori_results[i2, 1]<score_threshold):
+                continue
+            results.append(ori_results[i2, :])
 
         #write result
             classid2str = ['person' ,'bicycle' ,'car' ,'motorbike' ,'aeroplane' ,'bus' ,'train' ,'truck' ,'boat' \
