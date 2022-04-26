@@ -28,10 +28,10 @@ attention: this repo is a purely personal repo.
 运行环境：paddlepaddle 2.1.1版本，gpu版和cpu版都行。高阶用户可以使用TensorRT等加速库部署。  
 
 ### 其他预测模型：
-#### ppyolo tiny：链接: https://pan.baidu.com/s/1yNq0KrE70WarcqcRrM-cKg 提取码: i5qm 
-#### yolov3 r34：链接: https://pan.baidu.com/s/1Xw2pQk15Ldfn2yA3iVeesA 提取码: a2c7
-#### picodet s: 链接: https://pan.baidu.com/s/16GXxpSfPEkmz8yKeNPijrw 提取码: w8iw
-#### picodet m: 链接: https://pan.baidu.com/s/1UCr8EIDVR0xlRu_Y3shoEA 提取码: sy3n
-#### picodet l: 链接: https://pan.baidu.com/s/1Qsz8VkgLhBkoRK6LMsn9Ww 提取码: trzd
-#### RetinaNet：链接: https://pan.baidu.com/s/1yHkZm8USuGT7_4F0Vkh7uA 提取码: ccih
+#### ppyolo tiny：链接：https://pan.baidu.com/s/18Rcg02fxvrMDK6NLYF5D2Q 提取码：hhg1 
+#### yolov3 r34：链接：https://pan.baidu.com/s/1HWnJRpoqhtq-QSnXdgQBRw 提取码：dxca
+#### picodet s: 链接：https://pan.baidu.com/s/1DNUSSWvo0-Wn7UGvAJT1fA 提取码：msnp
+#### picodet m: 链接：https://pan.baidu.com/s/1phm5MIvQxJ_-reFcofWjzg 提取码：zqiz
+#### picodet l: 链接：https://pan.baidu.com/s/1nuoJ_j_CelWNBvFND_kbeQ 提取码：12hy
+#### RetinaNet：链接：https://pan.baidu.com/s/1BeCLMPsEqeDdNqZXnVN3cA 提取码：v8ba
 #### ppyoloe_crn_l 链接: https://pan.baidu.com/s/1BY5ngKH7F0Q1Ok8_ve6PwQ 提取码: u4en
